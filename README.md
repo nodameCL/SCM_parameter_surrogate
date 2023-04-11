@@ -11,3 +11,8 @@ The data used to train different models are available for download from: https:/
 
 The tested experiment data are located at `datasets/exp` folder 
 
+# training model through jupyter notebook 
+- multi-output regressor: `train_RF.ipynb`
+- simple DNN: `train_DNN.ipynb`
+- complex DNN: `train_complexDNN.ipynb`
+
