@@ -9,5 +9,5 @@ The data used to train different models are available for download from: https:/
 
 ## experimental test data 
 
-The tested experiment data are located at datasets/exp folder 
+The tested experiment data are located at `datasets/exp` folder 
 
